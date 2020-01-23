@@ -1,0 +1,7 @@
+crl/*
+downloads/*
+metadata/*
+ngrams/*
+output/*
+.DS_Store
+.ipynb_checkpoints/
