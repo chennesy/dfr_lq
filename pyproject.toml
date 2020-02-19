@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dfr_lq"
+version = "0.0.0"
+description = "topic modeling library quarterly"
+readme = "README.md"
+authors = ["Cody Hennesy <chennesy@umn.edu>", "David Naughton <naughton@umn.edu>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.2"
+jupyterlab = "*"
+pandas = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
