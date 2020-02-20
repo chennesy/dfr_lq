@@ -1,7 +1,11 @@
 crl/*
 downloads/*
+.DS_Store
 metadata/*
 ngrams/*
 output/*
-.DS_Store
 .ipynb_checkpoints/
+packrat/lib*/
+.RData
+.Rhistory
+.venv/
