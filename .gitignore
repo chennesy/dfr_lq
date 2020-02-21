@@ -6,6 +6,7 @@ ngrams/*
 output/*
 .ipynb_checkpoints/
 packrat/lib*/
+packrat/src/
 .RData
 .Rhistory
 .venv/
