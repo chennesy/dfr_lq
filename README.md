@@ -19,10 +19,10 @@ reading and following our [setup instructions](setup.md), especially if the goal
 doing so is to replicate our results.
 
 ### Data import, cleaning and analysis
-1. 1_import_r.ipynb - Thomas Klebel’s [jstor package](https://docs.ropensci.org/jstor/) for the programming language R (2018) was leveraged to reformat the metadata XML files into a single CSV file containing key metadata for the entire corpus. 
-2. 2_clean.ipynb - The metadata was then imported into Python and combined with the ngrams for each article. To prepare the corpus for topic modeling, the words in the ngram files were stemmed using the Natural Language Toolkit’s Snowball Stemmer (Bird, Loper, and Klein 2009). 
-3. 3_lda_models.ipynb - This notebook may be skipped for purposes of replicability. It used scikit-learn's GridSearchCV from the model_selection module to find the “best performing” model and parameters, including the number of topics (40) that were ultimately applied to the LQ corpus. 
-4. 4_tm_analysis.ipynb - Used to generate and analyze the topic model. See the article and supplemental appendix for more information. 
+1. [1_import_r.ipynb](https://github.com/chennesy/dfr_lq/blob/master/1_import_r.ipynb) - Thomas Klebel’s [jstor package](https://docs.ropensci.org/jstor/) for the programming language R (2018) was leveraged to reformat the metadata XML files into a single CSV file containing key metadata for the entire corpus. 
+2. [2_clean.ipynb](https://github.com/chennesy/dfr_lq/blob/master/2_clean.ipynb) - The metadata was then imported into Python and combined with the ngrams for each article. To prepare the corpus for topic modeling, the words in the ngram files were stemmed using the Natural Language Toolkit’s Snowball Stemmer (Bird, Loper, and Klein 2009). 
+3. [3_lda_models.ipynb](https://github.com/chennesy/dfr_lq/blob/master/3_lda_models.ipynb) - This notebook may be skipped for purposes of replicability. It used scikit-learn's GridSearchCV from the model_selection module to find the “best performing” model and parameters, including the number of topics (40) that were ultimately applied to the LQ corpus. 
+4. [4_tm_analysis.ipynb](https://github.com/chennesy/dfr_lq/blob/master/4_tm_analysis.ipynb) - Used to generate and analyze the topic model. See the article and supplemental appendix for more information. 
 
 ## Suggested citation
 Hennesy, C. & Naughton, D. “Great Men” and “Women Librarians”: Computational Topic Models of the *Library Quarterly* (1931-2015). *TBD*
