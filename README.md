@@ -1,6 +1,6 @@
 # dfr_lq
 
-Code used to generate LDA topic models analyzed in the article, “Great Men” and “Women Librarians”: Computational Topic Models of the *Library Quarterly* (1931-2015). 
+Code used to generate LDA topic models analyzed in the article, “Computational Topic Models of the *Library Quarterly* (1931-2015). 
 
 ## Data access
 Metadata and unigrams for 8,808 items from the *Library Quarterly* (LQ) were retrieved from JSTOR's Data for Research (DfR) platform using the query, *jcode:libraryq*. Each article from the journal is represented in the DfR download via:
@@ -25,6 +25,4 @@ doing so is to replicate our results.
 4. [4_tm_analysis.ipynb](https://github.com/chennesy/dfr_lq/blob/master/4_tm_analysis.ipynb) - Used to generate and analyze the topic model. See the article and supplemental appendix for more information. 
 
 ## Suggested citation
-Hennesy, C. & Naughton, D. “Great Men” and “Women Librarians”: Computational Topic Models of the *Library Quarterly* (1931-2015). *Under review*
-
-
+Hennesy, C. & Naughton, D. Computational Topic Models of the *Library Quarterly* (1931-2015). *portal: Libraries & the Academy* (forthcoming, 2022).
