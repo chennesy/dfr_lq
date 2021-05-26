@@ -10,3 +10,4 @@ packrat/src/
 .RData
 .Rhistory
 .venv/
+!output/stop_words_all.txt
