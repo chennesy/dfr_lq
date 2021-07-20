@@ -11,3 +11,4 @@ packrat/src/
 .Rhistory
 .venv/
 !output/stop_words_all.txt
+!output/topic_outputs.pdf
