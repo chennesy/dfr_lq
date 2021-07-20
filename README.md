@@ -25,4 +25,4 @@ doing so is to replicate our results.
 4. [4_tm_analysis.ipynb](https://github.com/chennesy/dfr_lq/blob/master/4_tm_analysis.ipynb) - Used to generate and analyze the topic model. See the article and supplemental appendix for more information. 
 
 ## Suggested citation
-Hennesy, C. & Naughton, D. Computational Topic Models of the *Library Quarterly* (1931-2015). *portal: Libraries & the Academy* (forthcoming, 2022).
+Hennesy, C. & Naughton, D. (in press, 2022). Computational Topic Models of the *Library Quarterly* (1931-2015). *portal: Libraries & the Academy* 22(2).
