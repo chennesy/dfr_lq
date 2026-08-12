@@ -2,6 +2,9 @@
 
 Code used to generate LDA topic models analyzed in the article, “Computational Topic Models of the *Library Quarterly* (1931-2015). 
 
+## Archived
+Archived repo in August 2026. Code and packages have not and will not be updated; the repo serves as a snapshot of the project.
+
 ## Data access
 Metadata and unigrams for 8,808 items from the *Library Quarterly* (LQ) were retrieved from JSTOR's Data for Research (DfR) platform using the query, *jcode:libraryq*. Each article from the journal is represented in the DfR download via:
 1. an XML file with metadata for each article and 
